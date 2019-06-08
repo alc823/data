@@ -1,0 +1,4 @@
+.idea
+.vscode
+*backup*
+.mypy_cache

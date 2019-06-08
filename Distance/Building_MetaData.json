@@ -1,0 +1,4165 @@
+{
+  "robertson hall": {
+    "address_components": [
+      {
+        "long_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "short_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "types": ["premise"]
+      },
+      { "long_name": "125", "short_name": "125", "types": ["street_number"] },
+      {
+        "long_name": "Ruppel Drive",
+        "short_name": "Ruppel Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Rouss Hall and Robertson Hall (McIntire School of Commerce), 125 Ruppel Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0329961, "lng": -78.5038127 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0343450802915, "lng": -78.50246371970849 },
+        "southwest": { "lat": 38.0316471197085, "lng": -78.50516168029151 }
+      }
+    },
+    "place_id": "ChIJ27qggUaGs4kR74QoQF5_IYM",
+    "plus_code": {
+      "compound_code": "2FMW+5F Charlottesville, Virginia, United States",
+      "global_code": "87C32FMW+5F"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "campbell hall": {
+    "address_components": [
+      {
+        "long_name": "Bayly Drive",
+        "short_name": "Bayly Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Venable",
+        "short_name": "Venable",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Bayly Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0387798, "lng": -78.50404139999999 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0401287802915, "lng": -78.50269241970848 },
+        "southwest": { "lat": 38.0374308197085, "lng": -78.5053903802915 }
+      }
+    },
+    "place_id": "ChIJG2AH0U6Gs4kRGICaq3eTNq4",
+    "plus_code": {
+      "compound_code": "2FQW+G9 Venable, Charlottesville, VA, United States",
+      "global_code": "87C32FQW+G9"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "charlottesville ice park": {
+    "address_components": [
+      { "long_name": "1210", "short_name": "1210", "types": ["street_number"] },
+      { "long_name": "Lee Street", "short_name": "Lee St", "types": ["route"] },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22908", "short_name": "22908", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1210 Lee St, Charlottesville, VA 22908, USA",
+    "geometry": {
+      "location": { "lat": 38.0319061, "lng": -78.49866879999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0332550802915, "lng": -78.49731981970848 },
+        "southwest": { "lat": 38.0305571197085, "lng": -78.50001778029149 }
+      }
+    },
+    "place_id": "ChIJQwj9b0eGs4kRQUFg7VIVovY",
+    "plus_code": {
+      "compound_code": "2GJ2+QG Charlottesville, Virginia, United States",
+      "global_code": "87C32GJ2+QG"
+    },
+    "types": ["doctor", "establishment", "health", "point_of_interest"]
+  },
+  "nuclear reactor": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      }
+    ],
+    "formatted_address": "Charlottesville, VA, USA",
+    "geometry": {
+      "location": { "lat": 38.0335529, "lng": -78.5079772 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0349018802915, "lng": -78.50662821970849 },
+        "southwest": { "lat": 38.0322039197085, "lng": -78.50932618029151 }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+    "plus_code": {
+      "compound_code": "2FMR+CR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+CR"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "lower west oval room, rotunda": {
+    "address_components": [
+      { "long_name": "1826", "short_name": "1826", "types": ["street_number"] },
+      {
+        "long_name": "University Avenue",
+        "short_name": "University Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1826 University Ave, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.03561, "lng": -78.5034395 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0369589802915, "lng": -78.5020905197085 },
+        "southwest": { "lat": 38.0342610197085, "lng": -78.50478848029151 }
+      }
+    },
+    "place_id": "ChIJ96Lhw0WGs4kRgBa4vIROQnw",
+    "plus_code": {
+      "compound_code": "2FPW+6J Charlottesville, Virginia, United States",
+      "global_code": "87C32FPW+6J"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "new cabell hall": {
+    "address_components": [
+      {
+        "long_name": "Cabell Hall",
+        "short_name": "Cabell Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Cabell Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0329894, "lng": -78.50439879999999 },
+        "southwest": { "lat": 38.0322513, "lng": -78.5056049 }
+      },
+      "location": { "lat": 38.0325327, "lng": -78.5050644 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0339693302915, "lng": -78.50365286970849 },
+        "southwest": { "lat": 38.0312713697085, "lng": -78.5063508302915 }
+      }
+    },
+    "place_id": "ChIJrXrnN0SGs4kRTZ3jBHMEPM8",
+    "types": ["premise"]
+  },
+  "mccormick observatory": {
+    "address_components": [
+      { "long_name": "600", "short_name": "600", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Samuel Miller",
+        "short_name": "Samuel Miller",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "600 McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.03296479999999, "lng": -78.52235859999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03431378029149, "lng": -78.52100961970848 },
+        "southwest": { "lat": 38.03161581970849, "lng": -78.52370758029149 }
+      }
+    },
+    "place_id": "ChIJA_Xdc_aGs4kRzP6zrjk6qyc",
+    "plus_code": {
+      "compound_code": "2FMH+53 Charlottesville, Virginia, United States",
+      "global_code": "87C32FMH+53"
+    },
+    "types": ["establishment", "museum", "point_of_interest"]
+  },
+  "hotel d, east range": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      }
+    ],
+    "formatted_address": "Charlottesville, VA, USA",
+    "geometry": {
+      "location": { "lat": 38.0335529, "lng": -78.5079772 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0349018802915, "lng": -78.50662821970849 },
+        "southwest": { "lat": 38.0322039197085, "lng": -78.50932618029151 }
+      }
+    },
+    "place_id": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+    "plus_code": {
+      "compound_code": "2FMR+CR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+CR"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "pavilion viii": {
+    "address_components": [
+      {
+        "long_name": "Pavilion VIII",
+        "short_name": "Pavilion Viii",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Pavilion Viii, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.034362, "lng": -78.5035983 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0357109802915, "lng": -78.5022493197085 },
+        "southwest": { "lat": 38.03301301970851, "lng": -78.5049472802915 }
+      }
+    },
+    "place_id": "ChIJKaUB4EWGs4kRRGsT6wdnLbA",
+    "types": ["subpremise"]
+  },
+  "randall hall": {
+    "address_components": [
+      {
+        "long_name": "Randall Hall",
+        "short_name": "Randall Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Randall Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0334226, "lng": -78.5030757 },
+        "southwest": { "lat": 38.0331771, "lng": -78.50357749999999 }
+      },
+      "location": { "lat": 38.0333039, "lng": -78.5033344 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03464883029149, "lng": -78.50197761970848 },
+        "southwest": { "lat": 38.0319508697085, "lng": -78.50467558029149 }
+      }
+    },
+    "place_id": "ChIJDRa7fkaGs4kRBhp2QrqqnWU",
+    "types": ["premise"]
+  },
+  "national radio astronomy observatory": {
+    "address_components": [
+      { "long_name": "520", "short_name": "520", "types": ["street_number"] },
+      {
+        "long_name": "Edgemont Road",
+        "short_name": "Edgemont Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "2454",
+        "short_name": "2454",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "520 Edgemont Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0369391, "lng": -78.5178361 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0382880802915, "lng": -78.51648711970849 },
+        "southwest": { "lat": 38.0355901197085, "lng": -78.51918508029149 }
+      }
+    },
+    "place_id": "ChIJMZfRKliGs4kR_mvYGIi3Ye0",
+    "plus_code": {
+      "compound_code": "2FPJ+QV Charlottesville, Virginia, United States",
+      "global_code": "87C32FPJ+QV"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "birdwood golf course": {
+    "address_components": [
+      { "long_name": "410", "short_name": "410", "types": ["street_number"] },
+      {
+        "long_name": "Golf Course Drive",
+        "short_name": "Golf Course Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Samuel Miller",
+        "short_name": "Samuel Miller",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "410 Golf Course Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0442653, "lng": -78.5358773 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0456142802915, "lng": -78.5345283197085 },
+        "southwest": { "lat": 38.0429163197085, "lng": -78.5372262802915 }
+      }
+    },
+    "place_id": "ChIJgRuy3eOGs4kRb7xOtWCIBoU",
+    "plus_code": {
+      "compound_code": "2FV7+PJ Charlottesville, Virginia, United States",
+      "global_code": "87C32FV7+PJ"
+    },
+    "types": ["establishment", "lodging", "point_of_interest", "store"]
+  },
+  "barracks stables": {
+    "address_components": [
+      { "long_name": "518", "short_name": "518", "types": ["street_number"] },
+      {
+        "long_name": "Barracks Farm Road",
+        "short_name": "Barracks Farm Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22901", "short_name": "22901", "types": ["postal_code"] },
+      {
+        "long_name": "5446",
+        "short_name": "5446",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "518 Barracks Farm Rd, Charlottesville, VA 22901, USA",
+    "geometry": {
+      "location": { "lat": 38.096437, "lng": -78.518322 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0977859802915, "lng": -78.51697301970849 },
+        "southwest": { "lat": 38.09508801970851, "lng": -78.5196709802915 }
+      }
+    },
+    "place_id": "ChIJWT13gn14tIkRU1VF9UY3Bqc",
+    "plus_code": {
+      "compound_code": "3FWJ+HM Ivy Farm, Jack Jouett, VA, United States",
+      "global_code": "87C33FWJ+HM"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "brooks hall": {
+    "address_components": [
+      {
+        "long_name": "Brooks Hall",
+        "short_name": "Brooks Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Brooks Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.035918, "lng": -78.5018807 },
+        "southwest": { "lat": 38.0356638, "lng": -78.5023123 }
+      },
+      "location": { "lat": 38.0357906, "lng": -78.5020785 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0371398802915, "lng": -78.50074751970851 },
+        "southwest": { "lat": 38.0344419197085, "lng": -78.50344548029152 }
+      }
+    },
+    "place_id": "ChIJc_c5n0iGs4kR2qYBTM80fmE",
+    "types": ["premise"]
+  },
+  "judge advocate general school": {
+    "address_components": [
+      { "long_name": "600", "short_name": "600", "types": ["street_number"] },
+      {
+        "long_name": "Massie Road",
+        "short_name": "Massie Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Barracks Road",
+        "short_name": "Barracks Road",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "1750",
+        "short_name": "1750",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "600 Massie Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0540575, "lng": -78.50765059999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0554064802915, "lng": -78.5063016197085 },
+        "southwest": { "lat": 38.0527085197085, "lng": -78.5089995802915 }
+      }
+    },
+    "place_id": "ChIJM4NsA7GHs4kR34RiE7A3_ZU",
+    "plus_code": {
+      "compound_code": "3F3R+JW Charlottesville, Virginia, United States",
+      "global_code": "87C33F3R+JW"
+    },
+    "types": ["establishment", "point_of_interest", "school"]
+  },
+  "dawson's row residence 1": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0326142, "lng": -78.50611680000002 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.03396318029149, "lng": -78.50476781970852 },
+        "southwest": { "lat": 38.03126521970849, "lng": -78.50746578029153 }
+      }
+    },
+    "place_id": "ChIJua1UV0SGs4kRReSWdYUGMcg",
+    "plus_code": {
+      "compound_code": "2FMV+2H Charlottesville, Virginia, United States",
+      "global_code": "87C32FMV+2H"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "maury hall": {
+    "address_components": [
+      {
+        "long_name": "Maury Hall",
+        "short_name": "Maury Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Maury Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0335927, "lng": -78.5065892 },
+        "southwest": { "lat": 38.0331931, "lng": -78.5070997 }
+      },
+      "location": { "lat": 38.0334109, "lng": -78.5068603 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0347418802915, "lng": -78.5054954697085 },
+        "southwest": { "lat": 38.0320439197085, "lng": -78.50819343029151 }
+      }
+    },
+    "place_id": "ChIJXRoDAkWGs4kRMSuVyze0F6w",
+    "types": ["premise"]
+  },
+  "uva/vt center in falls church": {
+    "address_components": [
+      { "long_name": "7054", "short_name": "7054", "types": ["street_number"] },
+      {
+        "long_name": "Haycock Road",
+        "short_name": "Haycock Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Falls Church",
+        "short_name": "Falls Church",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Dranesville",
+        "short_name": "Dranesville",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Fairfax County",
+        "short_name": "Fairfax County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22043", "short_name": "22043", "types": ["postal_code"] }
+    ],
+    "formatted_address": "7054 Haycock Rd, Falls Church, VA 22043, USA",
+    "geometry": {
+      "location": { "lat": 38.8968325, "lng": -77.1894815 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.8981814802915, "lng": -77.1881325197085 },
+        "southwest": { "lat": 38.8954835197085, "lng": -77.19083048029151 }
+      }
+    },
+    "place_id": "ChIJBzEP-tO0t4kRJxzbbLV4u4A",
+    "plus_code": {
+      "compound_code": "VRW6+P6 Idylwood, Providence, VA, United States",
+      "global_code": "87C4VRW6+P6"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "levering hall": {
+    "address_components": [
+      {
+        "long_name": "Levering Hall",
+        "short_name": "Levering Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Levering Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0338487, "lng": -78.5027877 },
+        "southwest": { "lat": 38.0334462, "lng": -78.5031333 }
+      },
+      "location": { "lat": 38.0336477, "lng": -78.5029382 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03499643029149, "lng": -78.5016115197085 },
+        "southwest": { "lat": 38.0322984697085, "lng": -78.50430948029151 }
+      }
+    },
+    "place_id": "ChIJsUsIcEaGs4kR6NZC4SoBRS0",
+    "types": ["premise"]
+  },
+  "clark hall": {
+    "address_components": [
+      {
+        "long_name": "Clark Hall",
+        "short_name": "Clark Hall",
+        "types": ["premise"]
+      },
+      { "long_name": "291", "short_name": "291", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "4123",
+        "short_name": "4123",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "Clark Hall, 291 McCormick Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0334687, "lng": -78.50726089999999 },
+        "southwest": { "lat": 38.032598, "lng": -78.5083265 }
+      },
+      "location": { "lat": 38.0330428, "lng": -78.5078494 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0343823302915, "lng": -78.50644471970848 },
+        "southwest": { "lat": 38.0316843697085, "lng": -78.50914268029149 }
+      }
+    },
+    "place_id": "ChIJ-xZs50SGs4kRYbm9EGJ-DIw",
+    "types": ["premise"]
+  },
+  "home of the instructor": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      }
+    ],
+    "formatted_address": "Charlottesville, VA, USA",
+    "geometry": {
+      "location": { "lat": 38.0335529, "lng": -78.5079772 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0349018802915, "lng": -78.50662821970849 },
+        "southwest": { "lat": 38.0322039197085, "lng": -78.50932618029151 }
+      }
+    },
+    "place_id": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+    "plus_code": {
+      "compound_code": "2FMR+CR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+CR"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "stacey hall": {
+    "address_components": [
+      {
+        "long_name": "Stacey Hall (Health System)",
+        "short_name": "Stacey Hall (Health System)",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "10th & Page",
+        "short_name": "10th & Page",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Stacey Hall (Health System), Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0334882, "lng": -78.49605749999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0348371802915, "lng": -78.4947085197085 },
+        "southwest": { "lat": 38.0321392197085, "lng": -78.4974064802915 }
+      }
+    },
+    "place_id": "ChIJN9m0RziGs4kRnUiwe6tr6Kg",
+    "types": ["subpremise"]
+  },
+  "old cabell hall": {
+    "address_components": [
+      {
+        "long_name": "Old Cabell Hall",
+        "short_name": "Old Cabell Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Old Cabell Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0328595, "lng": -78.50486149999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0342084802915, "lng": -78.50351251970848 },
+        "southwest": { "lat": 38.0315105197085, "lng": -78.5062104802915 }
+      }
+    },
+    "place_id": "ChIJGanVNUSGs4kROHUuZVL8PMc",
+    "plus_code": {
+      "compound_code": "2FMW+43 Charlottesville, Virginia, United States",
+      "global_code": "87C32FMW+43"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "mary munford house": {
+    "address_components": [
+      { "long_name": "1-100", "short_name": "1-100", "types": ["subpremise"] },
+      {
+        "long_name": "Lewis Mountain",
+        "short_name": "Lewis Mountain",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "#1-100, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0391109, "lng": -78.5075846 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0404598802915, "lng": -78.50623561970849 },
+        "southwest": { "lat": 38.0377619197085, "lng": -78.50893358029151 }
+      }
+    },
+    "place_id": "ChIJYTDJR06Gs4kReZtbk-Cu94I",
+    "plus_code": {
+      "compound_code": "2FQR+JX Charlottesville, Virginia, United States",
+      "global_code": "87C32FQR+JX"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "claude moore nursing": {
+    "address_components": [
+      { "long_name": "225", "short_name": "225", "types": ["street_number"] },
+      {
+        "long_name": "Jeanette Lancaster Way",
+        "short_name": "Jeanette Lancaster Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "3388",
+        "short_name": "3388",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "225 Jeanette Lancaster Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0312954, "lng": -78.5021969 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0326443802915, "lng": -78.50084791970849 },
+        "southwest": { "lat": 38.0299464197085, "lng": -78.50354588029151 }
+      }
+    },
+    "place_id": "ChIJDbGuuEaGs4kRTM2I0GhaaA4",
+    "plus_code": {
+      "compound_code": "2FJX+G4 Charlottesville, Virginia, United States",
+      "global_code": "87C32FJX+G4"
+    },
+    "types": ["establishment", "point_of_interest", "school", "university"]
+  },
+  "luther p. jackson house": {
+    "address_components": [
+      {
+        "long_name": "Luther P. Jackson Cultural Center",
+        "short_name": "Luther P. Jackson Cultural Center",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Luther P. Jackson Cultural Center, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.03287479999999, "lng": -78.5062178 },
+        "southwest": { "lat": 38.03276770000001, "lng": -78.5063983 }
+      },
+      "location": { "lat": 38.0328217, "lng": -78.5062925 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0341702302915, "lng": -78.5049590697085 },
+        "southwest": { "lat": 38.03147226970851, "lng": -78.50765703029151 }
+      }
+    },
+    "place_id": "ChIJ73-tV0SGs4kRDiBW9RdLuWo",
+    "types": ["premise"]
+  },
+  "fayerweather hall": {
+    "address_components": [
+      {
+        "long_name": "Fayerweather Hall",
+        "short_name": "Fayerweather Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Venable",
+        "short_name": "Venable",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Fayerweather Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.03805430000001, "lng": -78.50289029999999 },
+        "southwest": { "lat": 38.037705, "lng": -78.50325339999999 }
+      },
+      "location": { "lat": 38.0378815, "lng": -78.50304580000001 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0392286302915, "lng": -78.50172286970849 },
+        "southwest": { "lat": 38.0365306697085, "lng": -78.5044208302915 }
+      }
+    },
+    "place_id": "ChIJpXbW0EiGs4kRyHuGfTPGopk",
+    "types": ["premise"]
+  },
+  "ruffin hall": {
+    "address_components": [
+      { "long_name": "179", "short_name": "179", "types": ["street_number"] },
+      {
+        "long_name": "Culbreth Road",
+        "short_name": "Culbreth Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Venable",
+        "short_name": "Venable",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "2446",
+        "short_name": "2446",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "179 Culbreth Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0394246, "lng": -78.5032635 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0407735802915, "lng": -78.5019145197085 },
+        "southwest": { "lat": 38.0380756197085, "lng": -78.50461248029151 }
+      }
+    },
+    "place_id": "ChIJy_IF6U6Gs4kRmMe2uKyflRQ",
+    "plus_code": {
+      "compound_code": "2FQW+QM Venable, Charlottesville, VA, United States",
+      "global_code": "87C32FQW+QM"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "brown college library": {
+    "address_components": [
+      { "long_name": "291", "short_name": "291", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "2467",
+        "short_name": "2467",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "291 McCormick Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.032902, "lng": -78.507908 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0342509802915, "lng": -78.50655901970849 },
+        "southwest": { "lat": 38.0315530197085, "lng": -78.50925698029151 }
+      }
+    },
+    "place_id": "ChIJVzXJIUWGs4kRa-F2-Zxg0vw",
+    "plus_code": {
+      "compound_code": "2FMR+5R Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+5R"
+    },
+    "types": ["establishment", "library", "point_of_interest"]
+  },
+  "memorial gymnasium": {
+    "address_components": [
+      { "long_name": "210", "short_name": "210", "types": ["street_number"] },
+      {
+        "long_name": "Emmet Street South",
+        "short_name": "Emmet St S",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "of 22903, 210 Emmet St S, Charlottesville, VA 22903, United States",
+    "geometry": {
+      "location": { "lat": 38.0374763, "lng": -78.5071495 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0388252802915, "lng": -78.5058005197085 },
+        "southwest": { "lat": 38.0361273197085, "lng": -78.50849848029151 }
+      }
+    },
+    "place_id": "ChIJPxDVok-Gs4kRwTzoGEwSKeA",
+    "plus_code": {
+      "compound_code": "2FPV+X4 Charlottesville, Virginia, United States",
+      "global_code": "87C32FPV+X4"
+    },
+    "types": ["establishment", "gym", "health", "point_of_interest"]
+  },
+  "lambeth house": {
+    "address_components": [
+      {
+        "long_name": "Lambeth House",
+        "short_name": "Lambeth House",
+        "types": ["premise"]
+      },
+      { "long_name": "1914", "short_name": "1914", "types": ["street_number"] },
+      {
+        "long_name": "Thomson Road",
+        "short_name": "Thomson Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Lewis Mountain",
+        "short_name": "Lewis Mountain",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Lambeth House, 1914 Thomson Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0365865, "lng": -78.5087777 },
+        "southwest": { "lat": 38.0364573, "lng": -78.5089174 }
+      },
+      "location": { "lat": 38.0365182, "lng": -78.5088471 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0378708802915, "lng": -78.50749856970849 },
+        "southwest": { "lat": 38.0351729197085, "lng": -78.51019653029151 }
+      }
+    },
+    "place_id": "ChIJwRoE_E-Gs4kRhspuQD3lse0",
+    "types": ["premise"]
+  },
+  "nau hall": {
+    "address_components": [
+      { "long_name": "1540", "short_name": "1540", "types": ["street_number"] },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "3246",
+        "short_name": "3246",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "1540 Jefferson Park Ave, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.03174860000001, "lng": -78.505027 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03309758029151, "lng": -78.50367801970849 },
+        "southwest": { "lat": 38.03039961970851, "lng": -78.5063759802915 }
+      }
+    },
+    "place_id": "ChIJ10zTakSGs4kRlaQmKG6EgWM",
+    "plus_code": {
+      "compound_code": "2FJV+MX Charlottesville, Virginia, United States",
+      "global_code": "87C32FJV+MX"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "physics building": {
+    "address_components": [
+      { "long_name": "382", "short_name": "382", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "382 McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0341955, "lng": -78.51003209999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03554448029149, "lng": -78.50868311970848 },
+        "southwest": { "lat": 38.03284651970849, "lng": -78.51138108029149 }
+      }
+    },
+    "place_id": "ChIJIX2G2lqGs4kRULPW1GoFeKM",
+    "plus_code": {
+      "compound_code": "2FMQ+MX Charlottesville, Virginia, United States",
+      "global_code": "87C32FMQ+MX"
+    },
+    "types": ["establishment", "point_of_interest", "school"]
+  },
+  "slaughter recreation center": {
+    "address_components": [
+      { "long_name": "505", "short_name": "505", "types": ["street_number"] },
+      {
+        "long_name": "Edgemont Road",
+        "short_name": "Edgemont Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Samuel Miller",
+        "short_name": "Samuel Miller",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "505 Edgemont Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.034993, "lng": -78.517927 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0363419802915, "lng": -78.51657801970849 },
+        "southwest": { "lat": 38.0336440197085, "lng": -78.5192759802915 }
+      }
+    },
+    "place_id": "ChIJj5PlUliGs4kRkctmFM6bQsE",
+    "plus_code": {
+      "compound_code": "2FMJ+XR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMJ+XR"
+    },
+    "types": ["establishment", "gym", "health", "point_of_interest"]
+  },
+  "aquatic and fitness center": {
+    "address_components": [
+      { "long_name": "450", "short_name": "450", "types": ["street_number"] },
+      {
+        "long_name": "Whitehead Road",
+        "short_name": "Whitehead Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "450 Whitehead Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0328803, "lng": -78.5134903 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03422928029149, "lng": -78.5121413197085 },
+        "southwest": { "lat": 38.0315313197085, "lng": -78.51483928029151 }
+      }
+    },
+    "place_id": "ChIJpyGb7luGs4kRIMwkg1whbHk",
+    "plus_code": {
+      "compound_code": "2FMP+5J Charlottesville, Virginia, United States",
+      "global_code": "87C32FMP+5J"
+    },
+    "types": ["establishment", "gym", "health", "point_of_interest"]
+  },
+  "shea house": {
+    "address_components": [
+      {
+        "long_name": "Shea House (Student Residences)",
+        "short_name": "Shea House (Student Residences)",
+        "types": ["premise"]
+      },
+      { "long_name": "400", "short_name": "400", "types": ["street_number"] },
+      {
+        "long_name": "Monroe Lane",
+        "short_name": "Monroe Ln",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Shea House (Student Residences), 400 Monroe Ln, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0319188, "lng": -78.50251879999999 },
+        "southwest": { "lat": 38.0314981, "lng": -78.50283449999999 }
+      },
+      "location": { "lat": 38.0317055, "lng": -78.50266309999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0330574302915, "lng": -78.50132766970847 },
+        "southwest": { "lat": 38.0303594697085, "lng": -78.5040256302915 }
+      }
+    },
+    "place_id": "ChIJjVgjlkaGs4kRI5RDhtrKkBI",
+    "types": ["premise"]
+  },
+  "kerchof hall": {
+    "address_components": [
+      { "long_name": "141", "short_name": "141", "types": ["street_number"] },
+      {
+        "long_name": "Cabell Drive",
+        "short_name": "Cabell Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "141 Cabell Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0323973, "lng": -78.5081915 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0337462802915, "lng": -78.5068425197085 },
+        "southwest": { "lat": 38.0310483197085, "lng": -78.5095404802915 }
+      }
+    },
+    "place_id": "ChIJByU05USGs4kRYPDPhw53Uc0",
+    "plus_code": {
+      "compound_code": "2FJR+XP Charlottesville, Virginia, United States",
+      "global_code": "87C32FJR+XP"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "international study program outside the u.s.": {
+    "address_components": [
+      {
+        "long_name": "Minor Hall",
+        "short_name": "Minor Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Minor Hall, McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0338283, "lng": -78.5065051 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0351772802915, "lng": -78.50515611970849 },
+        "southwest": { "lat": 38.0324793197085, "lng": -78.50785408029151 }
+      }
+    },
+    "place_id": "ChIJx_SiG1GGs4kR3sR7IaWdVr0",
+    "plus_code": {
+      "compound_code": "2FMV+G9 Charlottesville, Virginia, United States",
+      "global_code": "87C32FMV+G9"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "shannon house": {
+    "address_components": [
+      {
+        "long_name": "Shannon House",
+        "short_name": "Shannon House",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Samuel Miller",
+        "short_name": "Samuel Miller",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Shannon House, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0338305, "lng": -78.5145792 },
+        "southwest": { "lat": 38.03334419999999, "lng": -78.51569099999999 }
+      },
+      "location": { "lat": 38.0334631, "lng": -78.51557179999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03493633029149, "lng": -78.5137861197085 },
+        "southwest": { "lat": 38.0322383697085, "lng": -78.5164840802915 }
+      }
+    },
+    "place_id": "ChIJnchtZVmGs4kRUsFh1QraFJc",
+    "types": ["premise"]
+  },
+  "halsey hall": {
+    "address_components": [
+      { "long_name": "148", "short_name": "148", "types": ["street_number"] },
+      {
+        "long_name": "Amphitheater Way",
+        "short_name": "Amphitheater Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "148 Amphitheater Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0329398, "lng": -78.50690999999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0342887802915, "lng": -78.5055610197085 },
+        "southwest": { "lat": 38.03159081970851, "lng": -78.5082589802915 }
+      }
+    },
+    "place_id": "ChIJFzzwpEWGs4kRe2MK68d09zY",
+    "plus_code": {
+      "compound_code": "2FMV+56 Charlottesville, Virginia, United States",
+      "global_code": "87C32FMV+56"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "bayly building": {
+    "address_components": [
+      {
+        "long_name": "Bayly Drive",
+        "short_name": "Bayly Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Venable",
+        "short_name": "Venable",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Bayly Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0387798, "lng": -78.50404139999999 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0401287802915, "lng": -78.50269241970848 },
+        "southwest": { "lat": 38.0374308197085, "lng": -78.5053903802915 }
+      }
+    },
+    "place_id": "ChIJG2AH0U6Gs4kRGICaq3eTNq4",
+    "plus_code": {
+      "compound_code": "2FQW+G9 Venable, Charlottesville, VA, United States",
+      "global_code": "87C32FQW+G9"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "darden school": {
+    "address_components": [
+      { "long_name": "100", "short_name": "100", "types": ["street_number"] },
+      {
+        "long_name": "Darden Boulevard",
+        "short_name": "Darden Blvd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "100 Darden Blvd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.052408, "lng": -78.514662 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0537569802915, "lng": -78.51331301970849 },
+        "southwest": { "lat": 38.0510590197085, "lng": -78.51601098029151 }
+      }
+    },
+    "place_id": "ChIJ_SYCKayHs4kRkelMwodBP3U",
+    "plus_code": {
+      "compound_code": "3F2P+X4 Charlottesville, Virginia, United States",
+      "global_code": "87C33F2P+X4"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "wintergreen resort": {
+    "address_components": [
+      { "long_name": "39", "short_name": "39", "types": ["street_number"] },
+      {
+        "long_name": "Mountain Inn Loop",
+        "short_name": "Mountain Inn Loop",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Nellysford",
+        "short_name": "Nellysford",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Rockfish",
+        "short_name": "Rockfish",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Nelson County",
+        "short_name": "Nelson County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22958", "short_name": "22958", "types": ["postal_code"] }
+    ],
+    "formatted_address": "39 Mountain Inn Loop, Nellysford, VA 22958, USA",
+    "geometry": {
+      "location": { "lat": 37.91488289999999, "lng": -78.94384790000001 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 37.91623188029149, "lng": -78.94249891970851 },
+        "southwest": { "lat": 37.91353391970849, "lng": -78.94519688029152 }
+      }
+    },
+    "place_id": "ChIJYSNgOCRps4kRcde6mhbDY2c",
+    "plus_code": {
+      "compound_code": "W374+XF Nellysford, Rockfish, VA, United States",
+      "global_code": "8793W374+XF"
+    },
+    "types": ["establishment", "lodging", "point_of_interest"]
+  },
+  "monroe hill range": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0347164, "lng": -78.5076863 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0360653802915, "lng": -78.5063373197085 },
+        "southwest": { "lat": 38.0333674197085, "lng": -78.50903528029151 }
+      }
+    },
+    "place_id": "ChIJT-sBFUWGs4kRG_lIyEYCbxk",
+    "plus_code": {
+      "compound_code": "2FMR+VW Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+VW"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "olsson hall": {
+    "address_components": [
+      { "long_name": "151", "short_name": "151", "types": ["street_number"] },
+      {
+        "long_name": "Engineer's Way",
+        "short_name": "Engineer's Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "151 Engineer's Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.032088, "lng": -78.510695 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0334369802915, "lng": -78.5093460197085 },
+        "southwest": { "lat": 38.0307390197085, "lng": -78.51204398029151 }
+      }
+    },
+    "place_id": "ChIJp622Q1uGs4kRB5yTaU44YRg",
+    "plus_code": {
+      "compound_code": "2FJQ+RP Charlottesville, Virginia, United States",
+      "global_code": "87C32FJQ+RP"
+    },
+    "types": ["establishment", "point_of_interest", "school"]
+  },
+  "cobb hall": {
+    "address_components": [
+      {
+        "long_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "short_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "types": ["premise"]
+      },
+      { "long_name": "125", "short_name": "125", "types": ["street_number"] },
+      {
+        "long_name": "Ruppel Drive",
+        "short_name": "Ruppel Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Rouss Hall and Robertson Hall (McIntire School of Commerce), 125 Ruppel Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0325464, "lng": -78.5029624 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0338953802915, "lng": -78.50161341970849 },
+        "southwest": { "lat": 38.0311974197085, "lng": -78.50431138029151 }
+      }
+    },
+    "place_id": "ChIJncqQhUaGs4kRHbgbt_hS42g",
+    "plus_code": {
+      "compound_code": "2FMW+2R Charlottesville, Virginia, United States",
+      "global_code": "87C32FMW+2R"
+    },
+    "types": ["establishment", "point_of_interest", "school"]
+  },
+  "peabody hall": {
+    "address_components": [
+      {
+        "long_name": "Peabody Hall",
+        "short_name": "Peabody Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Peabody Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0358223, "lng": -78.5059148 },
+        "southwest": { "lat": 38.0354221, "lng": -78.5063184 }
+      },
+      "location": { "lat": 38.035633, "lng": -78.5061183 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0369711802915, "lng": -78.50476761970849 },
+        "southwest": { "lat": 38.0342732197085, "lng": -78.50746558029151 }
+      }
+    },
+    "place_id": "ChIJv5NLgUWGs4kRav6AC7cobdY",
+    "types": ["premise"]
+  },
+  "french house": {
+    "address_components": [
+      {
+        "long_name": "La Maison Francaise (French House)",
+        "short_name": "La Maison Francaise (French House)",
+        "types": ["premise"]
+      },
+      { "long_name": "1404", "short_name": "1404", "types": ["street_number"] },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "3314",
+        "short_name": "3314",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "La Maison Francaise (French House), 1404 Jefferson Park Ave, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0318567, "lng": -78.50199769999999 },
+        "southwest": { "lat": 38.0316161, "lng": -78.5022987 }
+      },
+      "location": { "lat": 38.0317331, "lng": -78.50215659999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0330853802915, "lng": -78.50079921970848 },
+        "southwest": { "lat": 38.0303874197085, "lng": -78.5034971802915 }
+      }
+    },
+    "place_id": "ChIJI2XE6kaGs4kRZH1GyLMhXAA",
+    "types": ["premise"]
+  },
+  "astronomy building": {
+    "address_components": [
+      {
+        "long_name": "Astronomy Building",
+        "short_name": "Astronomy Bldg",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Astronomy Bldg, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.03584370000001, "lng": -78.51479669999999 },
+        "southwest": { "lat": 38.0353867, "lng": -78.5155764 }
+      },
+      "location": { "lat": 38.03562610000001, "lng": -78.51518039999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03696418029151, "lng": -78.5138375697085 },
+        "southwest": { "lat": 38.03426621970851, "lng": -78.5165355302915 }
+      }
+    },
+    "place_id": "ChIJv4rs9FmGs4kRAigiK6UQSb8",
+    "types": ["premise"]
+  },
+  "no room needed": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      }
+    ],
+    "formatted_address": "Charlottesville, VA, USA",
+    "geometry": {
+      "location": { "lat": 38.0335529, "lng": -78.5079772 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0349018802915, "lng": -78.50662821970849 },
+        "southwest": { "lat": 38.0322039197085, "lng": -78.50932618029151 }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+    "plus_code": {
+      "compound_code": "2FMR+CR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+CR"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "slaughter hall": {
+    "address_components": [
+      {
+        "long_name": "Slaughter Hall",
+        "short_name": "Slaughter Hall",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22901", "short_name": "22901", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Slaughter Hall, Charlottesville, VA 22901, USA",
+    "geometry": {
+      "location": { "lat": 38.0533701, "lng": -78.51050359999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0547190802915, "lng": -78.50915461970848 },
+        "southwest": { "lat": 38.0520211197085, "lng": -78.5118525802915 }
+      }
+    },
+    "place_id": "ChIJDXMxPq6Hs4kRmRDdPwBP5zY",
+    "types": ["subpremise"]
+  },
+  "bryant hall": {
+    "address_components": [
+      { "long_name": "1815", "short_name": "1815", "types": ["street_number"] },
+      {
+        "long_name": "Stadium Road",
+        "short_name": "Stadium Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1815 Stadium Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0302473, "lng": -78.51295809999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0315962802915, "lng": -78.51160911970848 },
+        "southwest": { "lat": 38.0288983197085, "lng": -78.5143070802915 }
+      }
+    },
+    "place_id": "ChIJD6kiZlyGs4kRr6i_3aptdhA",
+    "plus_code": {
+      "compound_code": "2FJP+3R Charlottesville, Virginia, United States",
+      "global_code": "87C32FJP+3R"
+    },
+    "types": ["establishment", "health", "point_of_interest"]
+  },
+  "mechanical engineering building": {
+    "address_components": [
+      { "long_name": "122", "short_name": "122", "types": ["street_number"] },
+      {
+        "long_name": "Engineer's Way",
+        "short_name": "Engineer's Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "122 Engineer's Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0327198, "lng": -78.5109746 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0340687802915, "lng": -78.50962561970849 },
+        "southwest": { "lat": 38.0313708197085, "lng": -78.51232358029151 }
+      }
+    },
+    "place_id": "ChIJBehlE1uGs4kRM2pwLXJH0pQ",
+    "plus_code": {
+      "compound_code": "2FMQ+3J Charlottesville, Virginia, United States",
+      "global_code": "87C32FMQ+3J"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "old  medical school": {
+    "address_components": [
+      {
+        "long_name": "Old Medical School Building (Health System)",
+        "short_name": "Old Medical School Bldg (Health System)",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Old Medical School Bldg (Health System), Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0339192, "lng": -78.50086499999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0352681802915, "lng": -78.49951601970848 },
+        "southwest": { "lat": 38.0325702197085, "lng": -78.50221398029149 }
+      }
+    },
+    "place_id": "ChIJXdcptUeGs4kR3LQEtOjliRU",
+    "types": ["subpremise"]
+  },
+  "wilson hall": {
+    "address_components": [
+      {
+        "long_name": "Wilson Hall",
+        "short_name": "Wilson Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Wilson Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0326447, "lng": -78.5037538 },
+        "southwest": { "lat": 38.0322961, "lng": -78.5043513 }
+      },
+      "location": { "lat": 38.0324722, "lng": -78.5040204 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0338193802915, "lng": -78.5027035697085 },
+        "southwest": { "lat": 38.03112141970851, "lng": -78.50540153029151 }
+      }
+    },
+    "place_id": "ChIJrW9nL0SGs4kRZ6sRqNsPVfc",
+    "types": ["premise"]
+  },
+  "multistory building": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      }
+    ],
+    "formatted_address": "Charlottesville, VA, USA",
+    "geometry": {
+      "location": { "lat": 38.0335529, "lng": -78.5079772 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0349018802915, "lng": -78.50662821970849 },
+        "southwest": { "lat": 38.0322039197085, "lng": -78.50932618029151 }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+    "plus_code": {
+      "compound_code": "2FMR+CR Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+CR"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "monroe hall": {
+    "address_components": [
+      {
+        "long_name": "Monroe Hall",
+        "short_name": "Monroe Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Monroe Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0351936, "lng": -78.5057441 },
+        "southwest": { "lat": 38.0345684, "lng": -78.5065948 }
+      },
+      "location": { "lat": 38.034837, "lng": -78.5064309 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0362299802915, "lng": -78.5048204697085 },
+        "southwest": { "lat": 38.0335320197085, "lng": -78.50751843029151 }
+      }
+    },
+    "place_id": "ChIJQ8G9nkWGs4kROKaari-0-hk",
+    "types": ["premise"]
+  },
+  "newcomb hall": {
+    "address_components": [
+      { "long_name": "180", "short_name": "180", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "180 McCormick Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0359236, "lng": -78.5066114 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0372725802915, "lng": -78.5052624197085 },
+        "southwest": { "lat": 38.0345746197085, "lng": -78.50796038029151 }
+      }
+    },
+    "place_id": "ChIJuTGlf0WGs4kRvu6IXIURRHU",
+    "plus_code": {
+      "compound_code": "2FPV+99 Charlottesville, Virginia, United States",
+      "global_code": "87C32FPV+99"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "cocke hall": {
+    "address_components": [
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.03341229999999, "lng": -78.5051304 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.03476128029149, "lng": -78.50378141970849 },
+        "southwest": { "lat": 38.03206331970849, "lng": -78.50647938029151 }
+      }
+    },
+    "place_id": "ChIJo8O8tUWGs4kRw2lHnkcyz3Y",
+    "plus_code": {
+      "compound_code": "2FMV+9W Charlottesville, Virginia, United States",
+      "global_code": "87C32FMV+9W"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "rouss hall": {
+    "address_components": [
+      {
+        "long_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "short_name": "Rouss Hall and Robertson Hall (McIntire School of Commerce)",
+        "types": ["premise"]
+      },
+      { "long_name": "125", "short_name": "125", "types": ["street_number"] },
+      {
+        "long_name": "Ruppel Drive",
+        "short_name": "Ruppel Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Rouss Hall and Robertson Hall (McIntire School of Commerce), 125 Ruppel Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0329514, "lng": -78.5038259 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0343003802915, "lng": -78.50247691970849 },
+        "southwest": { "lat": 38.0316024197085, "lng": -78.5051748802915 }
+      }
+    },
+    "place_id": "ChIJ6VEFK0SGs4kROnGDJ7pLHUk",
+    "plus_code": {
+      "compound_code": "2FMW+5F Charlottesville, Virginia, United States",
+      "global_code": "87C32FMW+5F"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "hospital west, davis wing": {
+    "address_components": [
+      { "long_name": "1300", "short_name": "1300", "types": ["street_number"] },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1300 Jefferson Park Ave, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0319019, "lng": -78.501032 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0332508802915, "lng": -78.4996830197085 },
+        "southwest": { "lat": 38.03055291970851, "lng": -78.5023809802915 }
+      }
+    },
+    "place_id": "ChIJi7gt7UaGs4kRszVtBtcSQ0U",
+    "plus_code": {
+      "compound_code": "2FJX+QH Charlottesville, Virginia, United States",
+      "global_code": "87C32FJX+QH"
+    },
+    "types": ["establishment", "health", "hospital", "point_of_interest"]
+  },
+  "dell 1": {
+    "address_components": [
+      { "long_name": "Dell 1", "short_name": "Dell 1", "types": ["premise"] },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Dell 1, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.03497249999999, "lng": -78.50972519999999 },
+        "southwest": { "lat": 38.0347061, "lng": -78.5102699 }
+      },
+      "location": { "lat": 38.0348403, "lng": -78.5099948 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03618828029149, "lng": -78.5086485697085 },
+        "southwest": { "lat": 38.03349031970849, "lng": -78.5113465302915 }
+      }
+    },
+    "place_id": "ChIJwXfVx1qGs4kRfGXo-HAcSBM",
+    "types": ["premise"]
+  },
+  "chemical engineering building": {
+    "address_components": [
+      {
+        "long_name": "Chemical Engineering Research Building",
+        "short_name": "Chemical Engineering Research Bldg",
+        "types": ["premise"]
+      },
+      { "long_name": "102", "short_name": "102", "types": ["street_number"] },
+      {
+        "long_name": "Engineer's Way",
+        "short_name": "Engineer's Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Chemical Engineering Research Bldg, 102 Engineer's Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.033589, "lng": -78.51049499999999 },
+        "southwest": { "lat": 38.0333239, "lng": -78.5110071 }
+      },
+      "location": { "lat": 38.03344269999999, "lng": -78.51074899999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0348054302915, "lng": -78.50940206970849 },
+        "southwest": { "lat": 38.0321074697085, "lng": -78.51210003029149 }
+      }
+    },
+    "place_id": "ChIJJTlaH1uGs4kRlBilvP40f1g",
+    "types": ["premise"]
+  },
+  "bryan hall": {
+    "address_components": [
+      {
+        "long_name": "Bryan Hall",
+        "short_name": "Bryan Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Bryan Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0335195, "lng": -78.5054246 },
+        "southwest": { "lat": 38.0330775, "lng": -78.506429 }
+      },
+      "location": { "lat": 38.0332951, "lng": -78.5059744 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0346474802915, "lng": -78.5045778197085 },
+        "southwest": { "lat": 38.0319495197085, "lng": -78.50727578029151 }
+      }
+    },
+    "place_id": "ChIJv10vrUWGs4kR0HL1zvEEpTo",
+    "types": ["premise"]
+  },
+  "zehmer hall annex": {
+    "address_components": [
+      {
+        "long_name": "Zehmer Hall (School of Continuing and Professional Studies/Conference Center)",
+        "short_name": "Zehmer Hall (School of Continuing and Professional Studies/Conference Center)",
+        "types": ["premise"]
+      },
+      { "long_name": "104", "short_name": "104", "types": ["street_number"] },
+      {
+        "long_name": "Midmont Lane",
+        "short_name": "Midmont Ln",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "2449",
+        "short_name": "2449",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "Zehmer Hall (School of Continuing and Professional Studies/Conference Center), 104 Midmont Ln, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.03956950000001, "lng": -78.5170042 },
+        "southwest": { "lat": 38.0388665, "lng": -78.517473 }
+      },
+      "location": { "lat": 38.0391302, "lng": -78.51720999999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0405669802915, "lng": -78.5158896197085 },
+        "southwest": { "lat": 38.0378690197085, "lng": -78.51858758029151 }
+      }
+    },
+    "place_id": "ChIJX5WNBFeGs4kRO_wfvjFk-yY",
+    "types": ["premise"]
+  },
+  "cauthen house": {
+    "address_components": [
+      { "long_name": "450", "short_name": "450", "types": ["street_number"] },
+      {
+        "long_name": "Tree House Drive",
+        "short_name": "Tree House Dr",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Samuel Miller",
+        "short_name": "Samuel Miller",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "450 Tree House Dr, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.033363, "lng": -78.5162562 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0347119802915, "lng": -78.51490721970849 },
+        "southwest": { "lat": 38.03201401970851, "lng": -78.51760518029151 }
+      }
+    },
+    "place_id": "ChIJv2m4bFmGs4kRRG7ClNDoXiM",
+    "plus_code": {
+      "compound_code": "2FMM+8F Charlottesville, Virginia, United States",
+      "global_code": "87C32FMM+8F"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "drama education building": {
+    "address_components": [
+      { "long_name": "109", "short_name": "109", "types": ["street_number"] },
+      {
+        "long_name": "Culbreth Road",
+        "short_name": "Culbreth Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Venable",
+        "short_name": "Venable",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "109 Culbreth Rd, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0395793, "lng": -78.50440549999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0409282802915, "lng": -78.5030565197085 },
+        "southwest": { "lat": 38.0382303197085, "lng": -78.5057544802915 }
+      }
+    },
+    "place_id": "ChIJczSHuE6Gs4kRNL20XOWALGU",
+    "plus_code": {
+      "compound_code": "2FQW+R6 Venable, Charlottesville, VA, United States",
+      "global_code": "87C32FQW+R6"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "dell 2": {
+    "address_components": [
+      { "long_name": "Dell 2", "short_name": "Dell 2", "types": ["premise"] },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Dell 2, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0351514, "lng": -78.5096243 },
+        "southwest": { "lat": 38.0348839, "lng": -78.5101751 }
+      },
+      "location": { "lat": 38.0350198, "lng": -78.5098933 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0363666302915, "lng": -78.5085507197085 },
+        "southwest": { "lat": 38.0336686697085, "lng": -78.5112486802915 }
+      }
+    },
+    "place_id": "ChIJKSXdt1qGs4kRWmS2pGQwv3I",
+    "types": ["premise"]
+  },
+  "ruffner hall": {
+    "address_components": [
+      {
+        "long_name": "Ruffner Hall (Curry School of Education)",
+        "short_name": "Ruffner Hall (Curry School of Education)",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Ruffner Hall (Curry School of Education), Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0352929, "lng": -78.50873709999999 },
+        "southwest": { "lat": 38.034438, "lng": -78.5096848 }
+      },
+      "location": { "lat": 38.034813, "lng": -78.5092949 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0362144302915, "lng": -78.5078619697085 },
+        "southwest": { "lat": 38.0335164697085, "lng": -78.5105599302915 }
+      }
+    },
+    "place_id": "ChIJD82zylqGs4kRP-LXp1PaTJU",
+    "types": ["premise"]
+  },
+  "jordan hall": {
+    "address_components": [
+      { "long_name": "1340", "short_name": "1340", "types": ["street_number"] },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1340 Jefferson Park Ave, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0319171, "lng": -78.50045949999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0332660802915, "lng": -78.49911051970848 },
+        "southwest": { "lat": 38.03056811970851, "lng": -78.50180848029149 }
+      }
+    },
+    "place_id": "ChIJY60u40aGs4kR8fZ5glBxVaw",
+    "plus_code": {
+      "compound_code": "2FJX+QR Charlottesville, Virginia, United States",
+      "global_code": "87C32FJX+QR"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "zehmer hall": {
+    "address_components": [
+      { "long_name": "104", "short_name": "104", "types": ["street_number"] },
+      {
+        "long_name": "Midmont Lane",
+        "short_name": "Midmont Ln",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] },
+      {
+        "long_name": "2449",
+        "short_name": "2449",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "104 Midmont Ln, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0392072, "lng": -78.5172148 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0405561802915, "lng": -78.51586581970851 },
+        "southwest": { "lat": 38.0378582197085, "lng": -78.51856378029152 }
+      }
+    },
+    "place_id": "ChIJh4vVyFeGs4kRpsm9fRgjGm8",
+    "plus_code": {
+      "compound_code": "2FQM+M4 Charlottesville, Virginia, United States",
+      "global_code": "87C32FQM+M4"
+    },
+    "types": ["establishment", "point_of_interest", "university"]
+  },
+  "gilmer hall": {
+    "address_components": [
+      { "long_name": "485", "short_name": "485", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "485 McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0341628, "lng": -78.5128076 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03551178029149, "lng": -78.5114586197085 },
+        "southwest": { "lat": 38.0328138197085, "lng": -78.51415658029151 }
+      }
+    },
+    "place_id": "ChIJlSpyUlqGs4kRVfzsohCXiD8",
+    "plus_code": {
+      "compound_code": "2FMP+MV Charlottesville, Virginia, United States",
+      "global_code": "87C32FMP+MV"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "rice hall": {
+    "address_components": [
+      {
+        "long_name": "Rice Hall Information Technology Engineering Building",
+        "short_name": "Rice Hall Information Technology Engineering Building",
+        "types": ["premise"]
+      },
+      { "long_name": "85", "short_name": "85", "types": ["street_number"] },
+      {
+        "long_name": "Engineer's Way",
+        "short_name": "Engineer's Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Rice Hall Information Technology Engineering Building, 85 Engineer's Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0318784, "lng": -78.5103819 },
+        "southwest": { "lat": 38.0314215, "lng": -78.5111269 }
+      },
+      "location": { "lat": 38.0316188, "lng": -78.51084589999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0329989302915, "lng": -78.50940541970849 },
+        "southwest": { "lat": 38.0303009697085, "lng": -78.5121033802915 }
+      }
+    },
+    "place_id": "ChIJNVN8Z1uGs4kR7JcEE4iqkGQ",
+    "types": ["premise"]
+  },
+  "rotunda": {
+    "address_components": [
+      { "long_name": "1826", "short_name": "1826", "types": ["street_number"] },
+      {
+        "long_name": "University Avenue",
+        "short_name": "University Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "1826 University Ave, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.03561, "lng": -78.5034395 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0369589802915, "lng": -78.5020905197085 },
+        "southwest": { "lat": 38.0342610197085, "lng": -78.50478848029151 }
+      }
+    },
+    "place_id": "ChIJ96Lhw0WGs4kRgBa4vIROQnw",
+    "plus_code": {
+      "compound_code": "2FPW+6J Charlottesville, Virginia, United States",
+      "global_code": "87C32FPW+6J"
+    },
+    "types": ["establishment", "point_of_interest"]
+  },
+  "chemistry building": {
+    "address_components": [
+      {
+        "long_name": "Chemistry Building",
+        "short_name": "Chemistry Bldg",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Chemistry Bldg, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0339471, "lng": -78.51131889999999 },
+        "southwest": { "lat": 38.0325129, "lng": -78.5122135 }
+      },
+      "location": { "lat": 38.0334568, "lng": -78.5117207 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0345789802915, "lng": -78.51041721970849 },
+        "southwest": { "lat": 38.0318810197085, "lng": -78.5131151802915 }
+      }
+    },
+    "place_id": "ChIJn7TEBVuGs4kRD18DRCerGaE",
+    "types": ["premise"]
+  },
+  "gibson hall": {
+    "address_components": [
+      {
+        "long_name": "Gibson Hall",
+        "short_name": "Gibson Hall",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Gibson Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0313976, "lng": -78.5051865 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.03274658029149, "lng": -78.50383751970848 },
+        "southwest": { "lat": 38.0300486197085, "lng": -78.50653548029149 }
+      }
+    },
+    "place_id": "ChIJ0xQWbESGs4kRH-5V_VWz_v0",
+    "types": ["subpremise"]
+  },
+  "alderman library": {
+    "address_components": [
+      { "long_name": "160", "short_name": "160", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] },
+      {
+        "long_name": "1001",
+        "short_name": "1001",
+        "types": ["postal_code_suffix"]
+      }
+    ],
+    "formatted_address": "160 McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0364566, "lng": -78.5053683 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0378055802915, "lng": -78.50401931970849 },
+        "southwest": { "lat": 38.0351076197085, "lng": -78.50671728029151 }
+      }
+    },
+    "place_id": "ChIJYWEcjkWGs4kRfZ5xc0CXbuk",
+    "plus_code": {
+      "compound_code": "2FPV+HV Charlottesville, Virginia, United States",
+      "global_code": "87C32FPV+HV"
+    },
+    "types": ["establishment", "library", "point_of_interest"]
+  },
+  "clemons library": {
+    "address_components": [
+      {
+        "long_name": "Newcomb Road North",
+        "short_name": "Newcomb Rd N",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Newcomb Rd N, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.036346, "lng": -78.506085 },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": { "lat": 38.0376949802915, "lng": -78.5047360197085 },
+        "southwest": { "lat": 38.03499701970851, "lng": -78.50743398029151 }
+      }
+    },
+    "place_id": "ChIJEXW5dk-Gs4kRUqQRzDWn_9o",
+    "plus_code": {
+      "compound_code": "2FPV+GH Charlottesville, Virginia, United States",
+      "global_code": "87C32FPV+GH"
+    },
+    "types": ["establishment", "library", "point_of_interest"]
+  },
+  "minor  hall": {
+    "address_components": [
+      {
+        "long_name": "Minor Hall",
+        "short_name": "Minor Hall",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Minor Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0341034, "lng": -78.5062849 },
+        "southwest": { "lat": 38.033627, "lng": -78.5067345 }
+      },
+      "location": { "lat": 38.0339031, "lng": -78.5064804 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0352141802915, "lng": -78.5051607197085 },
+        "southwest": { "lat": 38.0325162197085, "lng": -78.5078586802915 }
+      }
+    },
+    "place_id": "ChIJ0X6aB0WGs4kRlBBH8zqysMw",
+    "types": ["premise"]
+  },
+  "pavilion v": {
+    "address_components": [
+      {
+        "long_name": "Pavilion V",
+        "short_name": "Pavilion V",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Pavilion V, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0349762, "lng": -78.5042027 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0363251802915, "lng": -78.5028537197085 },
+        "southwest": { "lat": 38.0336272197085, "lng": -78.5055516802915 }
+      }
+    },
+    "place_id": "ChIJdVoR5UWGs4kRxwokcKYCTXw",
+    "types": ["subpremise"]
+  },
+  "withers-brown hall": {
+    "address_components": [
+      {
+        "long_name": "Withers-Brown Hall",
+        "short_name": "Withers-Brown Hall",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Barracks Road",
+        "short_name": "Barracks Road",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Withers-Brown Hall, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0528876, "lng": -78.5092768 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.05423658029149, "lng": -78.5079278197085 },
+        "southwest": { "lat": 38.0515386197085, "lng": -78.5106257802915 }
+      }
+    },
+    "place_id": "ChIJGYj-4bGHs4kR2vyIx6gfaAA",
+    "types": ["subpremise"]
+  },
+  "materials science building": {
+    "address_components": [
+      {
+        "long_name": "Materials Science Building",
+        "short_name": "Materials Science Bldg",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "Materials Science Bldg, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "bounds": {
+        "northeast": { "lat": 38.0333417, "lng": -78.5106729 },
+        "southwest": { "lat": 38.0330145, "lng": -78.5111507 }
+      },
+      "location": { "lat": 38.033176, "lng": -78.5109014 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0345270802915, "lng": -78.50956281970849 },
+        "southwest": { "lat": 38.0318291197085, "lng": -78.5122607802915 }
+      }
+    },
+    "place_id": "ChIJLx_LGVuGs4kRCmXPI3TvlK4",
+    "types": ["premise"]
+  },
+  "mcleod hall": {
+    "address_components": [
+      { "long_name": "202", "short_name": "202", "types": ["street_number"] },
+      {
+        "long_name": "Jeanette Lancaster Way",
+        "short_name": "Jeanette Lancaster Way",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Jefferson Park Avenue",
+        "short_name": "Jefferson Park Avenue",
+        "types": ["neighborhood", "political"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22903", "short_name": "22903", "types": ["postal_code"] }
+    ],
+    "formatted_address": "202 Jeanette Lancaster Way, Charlottesville, VA 22903, USA",
+    "geometry": {
+      "location": { "lat": 38.0307883, "lng": -78.5017281 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0321372802915, "lng": -78.5003791197085 },
+        "southwest": { "lat": 38.0294393197085, "lng": -78.5030770802915 }
+      }
+    },
+    "place_id": "ChIJrby0yUaGs4kRXge_EQ5xmdQ",
+    "plus_code": {
+      "compound_code": "2FJX+88 Charlottesville, Virginia, United States",
+      "global_code": "87C32FJX+88"
+    },
+    "types": ["establishment", "point_of_interest", "school", "university"]
+  },
+  "thornton hall": {
+    "address_components": [
+      { "long_name": "351", "short_name": "351", "types": ["street_number"] },
+      {
+        "long_name": "McCormick Road",
+        "short_name": "McCormick Rd",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Charlottesville",
+        "short_name": "Charlottesville",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Jack Jouett",
+        "short_name": "Jack Jouett",
+        "types": ["administrative_area_level_3", "political"]
+      },
+      {
+        "long_name": "Albemarle County",
+        "short_name": "Albemarle County",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Virginia",
+        "short_name": "VA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": ["country", "political"]
+      },
+      { "long_name": "22904", "short_name": "22904", "types": ["postal_code"] }
+    ],
+    "formatted_address": "351 McCormick Rd, Charlottesville, VA 22904, USA",
+    "geometry": {
+      "location": { "lat": 38.0332726, "lng": -78.50966059999999 },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": { "lat": 38.0346215802915, "lng": -78.5083116197085 },
+        "southwest": { "lat": 38.0319236197085, "lng": -78.5110095802915 }
+      }
+    },
+    "place_id": "ChIJl4umLluGs4kRxHCI_E-N55U",
+    "plus_code": {
+      "compound_code": "2FMR+84 Charlottesville, Virginia, United States",
+      "global_code": "87C32FMR+84"
+    },
+    "types": ["establishment", "point_of_interest"]
+  }
+}
